@@ -1,1 +1,2 @@
-# Influencer_Platform
+# Influencer Coordination and Sponsorship Platform
+
